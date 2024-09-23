@@ -12,7 +12,7 @@
 ##
 ## The _() surrounding the string marks it as eligible for translation.
 
-define config.name = _("A.T.G 2")
+define config.name = _("Adi The Game 2")
 
 
 ## Determines if the title given above is shown on the main menu screen. Set
@@ -23,7 +23,7 @@ define gui.show_name = True
 
 ## The version of the game.
 
-define config.version = "GitHub Build: alpha-0.3.07.9"
+define config.version = "GitHub-Build-0.3.7"
 
 
 ## Text that is placed on the game's about screen. Place the text between the
@@ -37,7 +37,7 @@ define gui.about = _p("""
 ## distribution. This must be ASCII-only, and must not contain spaces, colons,
 ## or semicolons.
 
-define build.name = "AdiThegame2"
+define build.name = "AdiTheGame2"
 
 
 ## Sounds and music ############################################################
@@ -143,7 +143,7 @@ default preferences.afm_time = 15
 ## This generally should not be changed, and if it is, should always be a
 ## literal string, not an expression.
 
-define config.save_directory = "AdiThegame2-1725773790"
+define config.save_directory = "AdiTheGame2-1727101947"
 
 
 ## Icon ########################################################################
